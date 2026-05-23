@@ -1,3 +1,3 @@
-# Intellistra-Courier
+# courier-erp
 
 Courier ERP — powered by APPNEURAL
